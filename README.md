@@ -1,1 +1,1 @@
-# super-duper-carnival
+Deployment of Vagrant Ubuntu Cluster with LAMP Stack
